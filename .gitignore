@@ -28,3 +28,5 @@ BT_JavaBasic_12345_062025.iml
 !selenium.avi
 out/
 .idea/
+*.png
+exports/
